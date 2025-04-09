@@ -51,7 +51,7 @@
                     <div class="counter-content">
                         <div class="counter-header">
                             <i class="fa-sharp fa-solid fa-phone"></i>
-                            <h2>Call Us</h2>
+                            <h2>Call</h2>
                             <li><a href="tel:+91 93 888 999 93">+91 93 888 999 93
                                 </a></li>
                         </div>
